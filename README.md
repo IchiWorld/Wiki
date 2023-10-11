@@ -1,3 +1,4 @@
-<Collapse summary="Правила занятия территории">
-Привет свити лох
+# Memory
+<Collapse summary="confetka">
+Swettie goood!!!
 </Collapse> 
