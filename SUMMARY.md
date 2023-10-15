@@ -26,6 +26,7 @@
   * [Лицензии на казино](rp/licenzii/licenzii-na-kazino.md)
 * [Роли](rp/roli.md)
 * [Паспорта](rp/pasporta.md)
+* [test](rp/test.md)
 
 ***
 
